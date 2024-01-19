@@ -1,6 +1,6 @@
 FROM arm64v8/tomcat:9.0.14-jre8-alpine
 
-MAINTAINER github.com/PengBAI
+MAINTAINER github.com/asecurityguru
 
 RUN rm -rf /usr/local/tomcat/webapps/ROOT/*
 
